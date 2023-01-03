@@ -1,7 +1,7 @@
 <img align="center" alt="Coding" width="400" src="https://cdn.wallpapersafari.com/71/87/R5ZQj6.gif">
 
-<h1 align="center">Hi 👋, I'm Kyle Robson</h1>
-<h3 align="center">A passionate frontend developer from SA</h3>
+<h1 align="center">Hi 👋, I'm Craig Nkomo</h1>
+<h3 align="center">A passionate frontend developer from Africa</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.30fuPl3x9KvMB2ZYW0k7owHaEK?pid=ImgDet&rs=1">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NCT-Association&label=Profile%20views&color=0e75b6&style=flat" alt="NCT-Association" /> </p>
@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Android, MEARN**
 
-- 📫 How to reach me **nocturnomd@gmail.com**
+- 📫 How to reach me **gundwanec@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -20,8 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/kyle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kyle" height="30" width="40" /></a>
-<a href="https://instagram.com/__kyle.cant.rn_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__kyle.cant.rn_" height="30" width="40" /></a>
+<a href="https://instagram.com/drex_mayhem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__kyle.cant.rn_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
